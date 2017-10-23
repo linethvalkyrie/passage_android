@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/danallanbraysantos/.android/build-cache/92f724e2345e3be0f4c874cfab2c61c542d29c7a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/danallanbraysantos/Documents/PassageProject/app/build/intermediates/pre-dexed/debug/classes_5b9cf0a41903d4910dc7acc9e84ce3020bea8506.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/danallanbraysantos/.android/build-cache/fb7fdd4b120a1a029aebdf40baff544c9e1012cc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/danallanbraysantos/Documents/PassageProject/app/build/intermediates/pre-dexed/debug/classes_2044f071deaf187e423a41c86e10ad94066ec491.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/danallanbraysantos/.android/build-cache/3cdfee5362f3423a85a50adfef684815c96eb5b5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/danallanbraysantos/Documents/PassageProject/app/build/intermediates/pre-dexed/debug/classes_8cb786982495e1511f9832a4ba97345d66035f5f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/danallanbraysantos/.android/build-cache/ca6c89adfea6a23e5344c4bd7957bc7d02242028/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/danallanbraysantos/Documents/PassageProject/app/build/intermediates/pre-dexed/debug/classes_5bc8ac41996f4147626c0e9df25749f91c7f60f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/danallanbraysantos/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/danallanbraysantos/Documents/PassageProject/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_5bf079a5f660ab3120659165a5e6c4a9a8fd9a39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/danallanbraysantos/.android/build-cache/ded81f13f19a8fa75b845e9195768797773f57ff/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/danallanbraysantos/Documents/PassageProject/app/build/intermediates/pre-dexed/debug/classes_433044c054b0279846c18a4c5cc27f8a3c7c315f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/danallanbraysantos/.android/build-cache/d10bad77fb638a33dbefaa273cd3c0cf45260ce6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/danallanbraysantos/Documents/PassageProject/app/build/intermediates/pre-dexed/debug/classes_4f1d8df2d0051aaa63447c88743733b1a1f50337.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/danallanbraysantos/.android/build-cache/43690c299d42f6b629b820d8d0e0d0f04e183107/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/danallanbraysantos/Documents/PassageProject/app/build/intermediates/pre-dexed/debug/classes_e2bf69ce30bf94163dac630c869e1a16f11bbf52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/danallanbraysantos/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/danallanbraysantos/Documents/PassageProject/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_4d41f5dfa65bc249d137674e810d93740d316464.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/danallanbraysantos/.android/build-cache/aced89a180af1b022d90fe6d24368e14170e85af/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/Users/danallanbraysantos/Documents/PassageProject/app/build/intermediates/pre-dexed/debug/classes_0c4c55732baf108855eb392795d6576e522b1bb3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/danallanbraysantos/.android/build-cache/63f7463db58d613fc4cb0f0840b2501f4b644693/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/danallanbraysantos/Documents/PassageProject/app/build/intermediates/pre-dexed/debug/classes_587ba9dbcf3c6e66a894701d8aa1dfffeecba59d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/danallanbraysantos/.android/build-cache/24b015c318e7de293e6996d0acf27f2e4781b86f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/danallanbraysantos/Documents/PassageProject/app/build/intermediates/pre-dexed/debug/classes_fd613c90afefb3f51d6b8e3c668b6c22bd5b58ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/danallanbraysantos/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.1/2a8e0aa38a2e21cb39e2f5a7d6704cbdc941da0/gson-2.8.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="02a8e0aa38a2e21cb39e2f5a7d6704cbdc941da0">
+        <dex dex="/Users/danallanbraysantos/Documents/Passage/app/build/intermediates/pre-dexed/debug/gson-2.8.1_6b8d7c4e593db622bfcc445d4796eb523ce83e94.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/danallanbraysantos/.android/build-cache/2357439413d825041e326a56bac3133f581b3cc1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/danallanbraysantos/Documents/PassageProject/app/build/intermediates/pre-dexed/debug/classes_0a36aa0478da0551a9616b29e8b29b4149014277.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/danallanbraysantos/.android/build-cache/72bf6fed466d1cba3ef2958fb550e1d54ba4e8dd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/danallanbraysantos/Documents/PassageProject/app/build/intermediates/pre-dexed/debug/classes_5eda41ba6b1ffdbfdf201aae8a7b32c262114024.jar" />
+    </item>
+
+</items>
