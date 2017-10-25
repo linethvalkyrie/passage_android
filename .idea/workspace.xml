@@ -43,8 +43,8 @@
       <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/passageproject/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="39" column="31" selection-start-line="39" selection-start-column="31" selection-end-line="39" selection-end-column="31" />
+            <state relative-caret-position="195">
+              <caret line="34" column="50" selection-start-line="34" selection-start-column="50" selection-end-line="34" selection-end-column="50" />
               <folding />
             </state>
           </provider>
@@ -149,17 +149,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NetworkValues.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="NetworkValues.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/passageproject/NetworkValues.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="167">
-              <caret line="17" column="35" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+            <state relative-caret-position="152">
+              <caret line="16" column="89" selection-start-line="16" selection-start-column="89" selection-end-line="16" selection-end-column="89" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HttpVolley.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="HttpVolley.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/passageproject/HttpVolley.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-3390">
@@ -2044,11 +2044,11 @@
         <option value="$PROJECT_DIR$/app/build.gradle" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/passageproject/BusinessObject.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/passageproject/PassageRecyclerViewAdapter.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/passageproject/NetworkValues.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/passageproject/MainActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/passageproject/PassageModel.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/passageproject/PassageData.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/passageproject/HttpVolley.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/passageproject/NetworkValues.java" />
       </list>
     </option>
   </component>
@@ -2669,26 +2669,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/passageproject/NetworkValues.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/passageproject/HttpVolley.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="167">
-          <caret line="17" column="35" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+        <state relative-caret-position="-3390">
+          <caret line="45" column="63" selection-start-line="45" selection-start-column="63" selection-end-line="45" selection-end-column="63" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/passageproject/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="39" column="31" selection-start-line="39" selection-start-column="31" selection-end-line="39" selection-end-column="31" />
+        <state relative-caret-position="195">
+          <caret line="34" column="50" selection-start-line="34" selection-start-column="50" selection-end-line="34" selection-end-column="50" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/passageproject/HttpVolley.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/passageproject/NetworkValues.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3390">
-          <caret line="45" column="63" selection-start-line="45" selection-start-column="63" selection-end-line="45" selection-end-column="63" />
+        <state relative-caret-position="152">
+          <caret line="16" column="89" selection-start-line="16" selection-start-column="89" selection-end-line="16" selection-end-column="89" />
           <folding />
         </state>
       </provider>

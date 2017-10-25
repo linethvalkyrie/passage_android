@@ -12,7 +12,9 @@ import java.util.HashMap;
 public class NetworkValues {
 
     public static final String API = "passage_api";
-    public static final String SERVER_URL = "https://dev-portal.tmn.ph/tmn_assist_server/api/";
+
+    //Temporary should be change to IP Address of the server or localhost
+    public static final String SERVER_URL = "https://localhost/NameFolderOfProject/api/";
 
     //For localhost (authetication)
     public static final String USERPWD = "admin:1234";
