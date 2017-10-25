@@ -42,10 +42,8 @@ import javax.net.ssl.TrustManagerFactory;
 import static com.android.volley.Request.Method.POST;
 
 /**
- * Created by Mark Ferdie Catabona on 7/27/2016.
- * Update on 8/1/2017 by Mark Ferdie Catabona - Converted into a builder patterned class
+ * Created by Bray Santos on 7/27/2016.
  * This class utilizes Volley library for networking by google.
- * <h1>Note</h1>
  */
 public class HttpVolley {
 

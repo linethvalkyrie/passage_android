@@ -5,6 +5,7 @@ import android.os.Bundle;
 import android.support.v7.widget.RecyclerView;
 import android.util.Log;
 
+import com.android.volley.Network;
 import com.android.volley.Request;
 import com.google.gson.Gson;
 
@@ -34,7 +35,9 @@ public class MainActivity extends AppCompatActivity implements HttpVolley.Volley
                 .setServerUrl(NetworkValues.SERVER_URL)
                 .setRequestMethod(Request.Method.GET)
                 .setParams(new HashMap<String, String>())
-                .setApi("passage_api")
+                // API location
+                .setApi(NetworkValues.API)
+                // API callName
                 .setTask("getPassage")
                 .build();
     }
@@ -42,7 +45,7 @@ public class MainActivity extends AppCompatActivity implements HttpVolley.Volley
     @Override
     public void onRequestSuccess(JSONObject response) throws JSONException {
         PassageData passageData = new Gson().fromJson(response.toString(), PassageData.class);
-        List<PassageModel> passageModelArrayList = new ArrayList<>();
+        List<PassageModel> passageModelArrayList;
 
         if (passageData.getResponseCode().equalsIgnoreCase("0")) {
             passageModelArrayList = passageData.getData();

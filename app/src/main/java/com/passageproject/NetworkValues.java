@@ -13,15 +13,9 @@ public class NetworkValues {
 
     public static final String API = "passage_api";
     public static final String SERVER_URL = "https://dev-portal.tmn.ph/tmn_assist_server/api/";
-    //For Dev
-//    public static final String USERPWD = "atin_to:6dffd8dbd8560c405662fec842671456b48176ae";
-    //For localhost
-    public static final String USERPWD = "admin:1234";
 
-    //qa/uat
-//    public static String CERTIFICATE_PATH = "cert/2a2a445aacf20fc6.crt";
-    //prod
-//    public static String CERTIFICATE_PATH = "cert/f9fdad3b279707c2.crt";
+    //For localhost (authetication)
+    public static final String USERPWD = "admin:1234";
 
     public static final String BASIC_AUTH = String.format("Basic %s", Base64.encodeToString(
             String.format("%s",USERPWD).getBytes(), Base64.NO_WRAP));
